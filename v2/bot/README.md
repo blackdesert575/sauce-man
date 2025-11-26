@@ -24,7 +24,7 @@ cargo run
 ### Reference
 
 * Rust
-    * [github.com/hong539/rust-101](https://github.com/hong539/rust-101)
+    * [github.com/blackdesert575/rust-101](https://github.com/blackdesert575/rust-101)
     * [github.com/serenity-rs/serenity](https://github.com/serenity-rs/serenity)
 * 3rd-party for Fix twitter/x.com broken preview metadata
     * [github.com/canaria3406/ermiana/blob/master/src/regex/handleTwitterRegexV2.js](https://github.com/canaria3406/ermiana/blob/master/src/regex/handleTwitterRegexV2.js)
