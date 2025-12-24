@@ -1,14 +1,23 @@
 # sauce-man
 
-* sauce-man are services which includes:
+* sauce-man are services which includes:    
+    * v2: Refactoring v1 discord bot/api in Rust
     * v1: Impl a discord bot/api in Python
-    * v2: Impl a discord bot/api in Rust
 
 ## quick-start
 
-* v1
-* v2
+* v2(development in Rust)
+* v1(archived)
 
 # architecture
 
-* To-do
+# work-flow
+
+# To-do
+
+* v2
+    * code refactoring in Rust
+        * bot
+        * api
+    * connect with postgreSQL
+    * connect with [n8n](https://github.com/n8n-io/n8n)
