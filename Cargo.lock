@@ -283,6 +283,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "e01_basic_ping_bot"
+version = "0.1.0"
+dependencies = [
+ "serenity",
+ "tokio",
+]
+
+[[package]]
 name = "errno"
 version = "0.3.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"

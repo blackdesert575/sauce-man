@@ -18,6 +18,8 @@
 * v2
     * code refactoring in Rust
         * bot
+            * Trey examples
+                * [github.com/serenity-rs/serenity/tree/current/examples](https://github.com/serenity-rs/serenity/tree/current/examples)
         * api
     * connect with postgreSQL
     * connect with [n8n](https://github.com/n8n-io/n8n)
