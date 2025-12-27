@@ -1,4 +1,4 @@
 [workspace]
 resolver = "3"
-members = [ "v2/api", "v2/bot", "examples/e01_basic_ping_bot"]
+members = [ "v2/api", "v2/bot", "examples/*"]
 # exclude = ["examples/*"]

@@ -2,7 +2,7 @@
 name = "e06_sample_bot_structure"
 version = "0.1.0"
 authors = ["my name <my@email.address>"]
-edition = "2018"
+edition = "2024"
 
 [dependencies]
 dotenv = "0.15"
@@ -15,4 +15,4 @@ features = ["macros", "signal", "rt-multi-thread"]
 
 [dependencies.serenity]
 features = ["cache", "framework", "standard_framework", "rustls_backend"]
-path = "../../"
+version = "0.12"

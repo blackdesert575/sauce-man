@@ -2,7 +2,7 @@
 name = "e08_shard_manager"
 version = "0.1.0"
 authors = ["my name <my@email.address>"]
-edition = "2018"
+edition = "2024"
 
 [dependencies]
 tokio = { version = "1.0", features = ["macros", "rt-multi-thread", "time"] }
@@ -10,4 +10,4 @@ tokio = { version = "1.0", features = ["macros", "rt-multi-thread", "time"] }
 [dependencies.serenity]
 default-features = false
 features = ["client", "gateway", "rustls_backend", "model"]
-path = "../../"
+version = "0.12"

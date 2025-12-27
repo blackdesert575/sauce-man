@@ -2,8 +2,8 @@
 name = "e19_interactions_endpoint"
 version = "0.1.0"
 authors = ["my name <my@email.address>"]
-edition = "2018"
+edition = "2024"
 
 [dependencies]
-serenity = { path = "../../", default-features = false, features = ["builder", "interactions_endpoint"] }
+serenity = { version = "0.12", default-features = false, features = ["builder", "interactions_endpoint"] }
 tiny_http = "0.12.0"
