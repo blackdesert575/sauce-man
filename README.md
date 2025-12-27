@@ -18,7 +18,7 @@
 * v2
     * code refactoring in Rust
         * bot
-            * Try examples
+            * Try serenity/examples
                 * [github.com/serenity-rs/serenity/tree/current/examples](https://github.com/serenity-rs/serenity/tree/current/examples)
         * api
     * connect with postgreSQL
