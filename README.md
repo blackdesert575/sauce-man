@@ -23,3 +23,6 @@
         * api
     * connect with postgreSQL
     * connect with [n8n](https://github.com/n8n-io/n8n)
+* Rust
+    * basic
+        * [github.com/blackdesert575/rust-101](https://github.com/blackdesert575/rust-101)

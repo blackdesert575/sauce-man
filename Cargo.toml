@@ -1,4 +1,5 @@
 [workspace]
 resolver = "3"
-members = [ "v2/api", "v2/bot", "examples/*"]
+members = [ "v2/api", "v2/bot", "serenity/examples/*" ]
+# members = [ "v2/api", "v2/bot", "serenity/examples/*", "poise/examples/*" ]
 # exclude = ["examples/*"]
