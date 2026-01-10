@@ -20,9 +20,11 @@
         * bot
             * Try serenity/examples
                 * [github.com/serenity-rs/serenity/tree/current/examples](https://github.com/serenity-rs/serenity/tree/current/examples)
+            * Try poise/examples
+                * [github.com/serenity-rs/poise/tree/current/examples](https://github.com/serenity-rs/poise/tree/current/examples)
         * api
     * connect with postgreSQL
-    * connect with [n8n](https://github.com/n8n-io/n8n)
+    * connect with [n8n](https://github.com/n8n-io/n8n) to extend more features
 * Rust
     * basic
         * [github.com/blackdesert575/rust-101](https://github.com/blackdesert575/rust-101)
