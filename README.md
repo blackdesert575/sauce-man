@@ -4,6 +4,8 @@
     * v2: Refactoring v1 discord bot/api in Rust
     * v1: Impl a discord bot/api in Python
 
+> Note: This project is currently maintained by a solo developer with Codex-assisted development.
+
 ## quick-start
 
 * v2(development in Rust)
