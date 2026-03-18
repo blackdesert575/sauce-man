@@ -1,0 +1,15 @@
+services:
+  sauce-man-db:
+    image: postgres:18
+    container_name: sauce-man-db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: sauce-man
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: sauce-man-db
+    volumes:
+      - pg_data:/var/lib/postgresql/18/docker
+
+volumes:
+  pg_data:      
